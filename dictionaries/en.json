@@ -1,0 +1,122 @@
+{   
+    "language": "English language",
+    "code": "en",
+    "button": "Book now",
+    "currency": "$",
+    "bookingTime": "night",
+    "socialsTitle": "We are in socials",
+    "contactsTitle": "Contacts",
+    "guests": {
+        "title": "Guests",
+        "one": "Guest",
+        "several": "Guests",
+        "many": "Guests"
+    },
+    "heroComponent": {
+        "hotelName": "Hotel olimp",
+        "resortName": "Shekvetili"
+    },
+    "menu": {
+        "resort": "Resort",
+        "hotel": "Hotel",
+        "rooms": "Rooms",
+        "restaurant": "Restaurant",
+        "contacts": "Contacts",
+        "socials": "Socials"
+    },
+    "resortComponent": {
+        "title": "Resort",
+        "text": "The beach is three kilometers long, and about 30 meters wide. The beach has black magnetic sand. Together with the humid subtropical air, pine groves and sea water it creates a natural healing environment - especially for those who suffer from cardiovascular, nervous, endocrine, and musculoskeletal system diseases. These sands are also effective for strengthening the bones and joints of children and adults alike. It represents a good vacation spot for families with children, as the water depth is low, and the shore is clean.",
+        "sights": {
+            "card1":{
+                "title": "Park Tsitsinatela",
+                "description": "A unique amusement park with awesome attractions"
+            },
+            "card2":{
+                "title": "BlackSea Arena",
+                "description": "Concert venue for music concerts and festivals"
+            },
+            "card3":{
+                "title": "Arboretum",
+                "description": "Incredible park with giant trees and a mini zoo"
+            },
+            "card4":{
+                "title": "Musicians Park",
+                "description": "Great place to experience music"
+            },
+            "card5":{
+                "title": "Botanical Garden",
+                "description": "Huge area with great flora. Paradise for eyes and soul"
+            }
+        }
+    },
+    "hotelComponent":{
+        "title": "Hotel",
+        "info": {
+            "info1": "The four-star Olymp Hotel in Shekvetili is located in the heart of Shekvetili resort. Olimp Hotel offers easy access to all major attractions and its own private beach with unique magnetic sand.",
+            "info2": "Our hotel has a spacious swimming pool measuring 16x6 meters, which is divided into two zones: an adult 165 cm deep and a children's 60 cm deep. This allows you to ensure a safe and pleasant pastime for children and their parents.",
+            "info3": "Flamingo and unicorn pool air mattresses are available. The pool has a self-cleaning robotic system, overflow protection, and, best of all, hydromassage!!!!",
+            "info4": "The pool is surrounded by sun loungers and umbrellas, and at night the pool is illuminated from inside and around, which creates a special atmosphere for evening entertainment programs that take place by the pool.",
+            "info5": "A playground for the little ones in a secluded place with a green lawn under the shade of pine trees. There are also swings, trampoline and hammocks for adults.",
+            "info6": "On the well-groomed territory of the hotel there is everything you need for a wonderful family holiday. We pay special attention to landscaping and cleanliness.",
+            "info7": "Enjoy your bungalows where you can enjoy your breakfast or coffee in the shade with the fresh sea breeze. And on the 7th floor there is a panoramic terrace… and crazy sunsets!"
+        },
+        "servisesTitle":"At guest's service",
+        "servises": {
+            "servise1": "Restaurant",
+            "servise2": "Tropical garden with swings",
+            "servise3": "Two pools",
+            "servise4": "Playground",
+            "servise5": "Panoramic terraces",
+            "servise6": "Closed parking",
+            "servise7": "Free WiFi",
+            "servise8": "Bungalow and Fountain"
+        }
+    },
+    "roomsComponent":{
+        "title": "Rooms",
+        "text": "All rooms are equipped with air conditioning, a flat-screen TV with cable channels, a refrigerator, a kettle, a shower, a hairdryer and a wardrobe. The rooms are equipped with a private bathroom fitted with a bath.",
+        "rooms": {
+            "room1": {
+                "name": "Standard double room with Sea view and a balcony",
+                "description": "The standard double room offers a breathtaking sea view from its private balcony, allowing guests to immerse themselves in the beauty of the Black sea right from the comfort of their room. The room features a cozy double bed, tasteful decor, and modern amenities to ensure a comfortable and memorable stay."
+            },
+            "room2": {
+                "name": "Double or twin room with Sea view and a balcony",
+                "description": "The standard triple room provides a scenic sea view from its private balcony, offering guests a serene and picturesque setting. With three comfortable twin or double beds, modern amenities, and tasteful decor, it ensures a pleasant stay while enjoying the beauty of the Black sea."
+            },
+            "room3": {
+                "name": "Double and twin bed with Sea view and a terrace",
+                "description": "The triple deluxe room provides a scenic sea view from its spacious terrace with terrace furniture allowing guests to unwind while admiring the coastal beauty. With comfortable double and single beds, tasteful furnishings, and modern amenities, this room offers a relaxing and enjoyable stay for a group or family seeking both comfort and a connection with the stunning sea vista."
+            },
+            "room4": {
+                "name": "Double and twin beds with Sea view and a balcony",
+                "description": "Standard quadruple room offers a picturesque sea and forest view from its private balcony, allowing guests to savor the beauty of the Black sea and pine forest while enjoying their stay. With cozy beds, tasteful decor, and modern amenities, this room provides a comfortable and spacious retreat for families or groups seeking both relaxation and a breathtaking coastal experience."
+            },
+            "room5": {
+                "name": "Double and twin beds with Sea view and a terrace",
+                "description": "This 2-bedroom suite boasts a spacious terrace with panoramic sea views, and balcony, providing a serene and scenic setting for guests to unwind. With two separate bedrooms featuring comfortable beds, a well-appointed living area, terrace furniture and modern amenities, this suite offers both relaxation and ample space for a memorable stay overlooking the beautiful seascape, tropical garden and a pool. "
+            },
+            "room6": {
+                "name": "Double and twin beds with Sea view and a terrace",
+                "description":"The 2-bedroom family suite boasts a shared terrace that offers a stunning sea view, providing a serene space for families to unwind and enjoy the coastal scenery together. With two separate bedrooms, comfortable furnishings, and modern amenities, this suite provides ample space and comfort for families seeking a memorable seaside getaway."
+            }
+        }
+    },
+    "restaurant": {
+        "title": "Bar and restaurant",
+        "beverages": "Beverages",
+        "starters": "Starters",
+        "khachapuri": "Khachapuri",
+        "sides": "Sides",
+        "maindish": "Main courses",
+        "salads": "Salads",
+        "soups": "Soups",
+        "pizza": "Pizza"
+    },
+    "socials": {
+        "follow": "Follow us on Instagram",
+        "button": "Load more"
+    }
+}
+
